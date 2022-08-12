@@ -12,3 +12,7 @@ enabled = true
 }
 
 Step 2: Generate Binding Class for XML Layout, wrap the layout with <layout> tag.
+
+Step 3: Construct a data binding object 
+ 
+Step 4: Elimate findViewById() / use of data binding to access of xml properties. 
